@@ -116,12 +116,12 @@ export default function Layout() {
             >
               Travels
             </Link>
-            <Link
+       {/* <Link
   to="/work"
   className={`hover:text-accent ${location.pathname === "/work" ? "text-accent" : "text-gray-300"}`}
 >
   Work
-</Link>
+</Link> */}
             <button
               onClick={handleConnectClick}
               className="hover:text-accent text-gray-300 bg-transparent border-none cursor-pointer"
