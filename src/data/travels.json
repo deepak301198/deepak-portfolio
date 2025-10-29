@@ -1,0 +1,342 @@
+{
+    "places": [
+      {
+        "name": "Kedarnath",
+        "lat": 30.7346,
+        "lng": 79.0669,
+        "type": "place",
+        "slides": [
+          {
+            "image": "/travel-images/kedarnath.jpg",
+            "text": "A 16 km trek through misty valleys and glacial paths led to the sacred Kedarnath Temple — a journey that tested both faith and endurance."
+          }
+        ]
+      },
+      {
+        "name": "Rishikesh",
+        "lat": 30.0869,
+        "lng": 78.2676,
+        "type": "place",
+        "slides": [
+          {
+            "image": "/travel-images/rishikesh.jpg",
+            "text": "Crossed the Laxman Jhula and watched the Ganga Aarti under a golden sunset — calm, spiritual, timeless."
+          }
+        ]
+      },
+      {
+        "name": "Haridwar",
+        "lat": 29.9457,
+        "lng": 78.1642,
+        "type": "place",
+        "slides": [
+          {
+            "image": "/travel-images/haridwar.jpg",
+            "text": "At Har Ki Pauri, the air shimmered with chants and the glow of floating diyas — spirituality meeting the flow of the Ganga."
+          }
+        ]
+      },
+      {
+        "name": "Devprayag",
+        "lat": 30.1466,
+        "lng": 78.602,
+        "type": "place",
+        "slides": [
+          {
+            "image": "/travel-images/devprayag.jpg",
+            "text": "Where Alaknanda meets Bhagirathi — the moment the Ganga is born, a visual poetry of colors and confluence."
+          }
+        ]
+      },
+      {
+        "name": "Rudraprayag",
+        "lat": 30.2841,
+        "lng": 78.98,
+        "type": "place",
+        "slides": [
+          {
+            "image": "/travel-images/rudraprayag.jpg",
+            "text": "Nestled between two rivers, Rudraprayag is calm, raw, and deeply spiritual — nature and divinity intertwined."
+          }
+        ]
+      },
+      {
+        "name": "Vaishno Devi",
+        "lat": 33.0329,
+        "lng": 74.949,
+        "type": "place",
+        "slides": [
+          {
+            "image": "/travel-images/vaishnodevi.jpg",
+            "text": "The 14 km climb to Vaishno Devi was filled with chants and determination — devotion guiding every step uphill."
+          }
+        ]
+      },
+      {
+        "name": "Jaipur",
+        "lat": 26.9124,
+        "lng": 75.7873,
+        "type": "place",
+        "slides": [
+          {
+            "image": "/travel-images/jaipur.jpg",
+            "text": "The Pink City dazzles with forts, palaces, and chaos — every corner is painted with royalty and rhythm."
+          }
+        ]
+      },
+      {
+        "name": "Sawai Madhopur",
+        "lat": 26.0232,
+        "lng": 76.356,
+        "type": "place",
+        "slides": [
+          {
+            "image": "/travel-images/sawai_madhopur.jpg",
+            "text": "Gateway to Ranthambore — where wilderness meets history, and tiger trails run alongside ancient walls."
+          }
+        ]
+      },
+      {
+        "name": "Ajmer",
+        "lat": 26.4499,
+        "lng": 74.6399,
+        "type": "place",
+        "slides": [
+          {
+            "image": "/travel-images/ajmer.jpg",
+            "text": "Visited the Ajmer Sharif Dargah — a place of prayers, fragrance, and quiet miracles."
+          }
+        ]
+      },
+      {
+        "name": "Pushkar",
+        "lat": 26.489,
+        "lng": 74.551,
+        "type": "place",
+        "slides": [
+          {
+            "image": "/travel-images/pushkar.jpg",
+            "text": "Walked along the ghats of Pushkar Lake — colors, chants, and camels blending into one mystical desert town."
+          }
+        ]
+      },
+      {
+        "name": "Udaipur",
+        "lat": 24.5854,
+        "lng": 73.7125,
+        "type": "place",
+        "slides": [
+          {
+            "image": "/travel-images/udaipur.jpg",
+            "text": "City of Lakes — palaces reflecting over Pichola, where every view feels like a painting in motion."
+          }
+        ]
+      },
+      {
+        "name": "Prayagraj",
+        "lat": 25.4358,
+        "lng": 81.8463,
+        "type": "place",
+        "slides": [
+          {
+            "image": "/travel-images/prayagraj.jpg",
+            "text": "At the Sangam, three rivers meet — the Ganga, Yamuna, and Saraswati. Faith runs deeper than the waters here."
+          }
+        ]
+      },
+      {
+        "name": "Ujjain",
+        "lat": 23.1765,
+        "lng": 75.7885,
+        "type": "place",
+        "slides": [
+          {
+            "image": "/travel-images/ujjain.jpg",
+            "text": "At Mahakaleshwar Temple, the morning aarti stirs the soul — devotion at its purest form."
+          }
+        ]
+      },
+      {
+        "name": "Shirdi",
+        "lat": 19.7667,
+        "lng": 74.4836,
+        "type": "place",
+        "slides": [
+          {
+            "image": "/travel-images/shirdi.jpg",
+            "text": "The land of Sai Baba — filled with peace, humility, and a feeling that you’ve come home."
+          }
+        ]
+      },
+      {
+        "name": "Somnath",
+        "lat": 20.8903,
+        "lng": 70.4012,
+        "type": "place",
+        "slides": [
+          {
+            "image": "/travel-images/somnath.jpg",
+            "text": "Where the temple meets the sea — waves crash against faith carved in stone."
+          }
+        ]
+      },
+      {
+        "name": "Junagadh",
+        "lat": 21.5222,
+        "lng": 70.4579,
+        "type": "place",
+        "slides": [
+          {
+            "image": "/travel-images/junagadh.jpg",
+            "text": "Foothills of Girnar — ancient steps, echoing prayers, and a view that humbles you."
+          }
+        ]
+      },
+      {
+        "name": "Mumbai",
+        "lat": 19.076,
+        "lng": 72.8777,
+        "type": "place",
+        "slides": [
+          {
+            "image": "/travel-images/mumbai.jpg",
+            "text": "City of chaos and dreams — from Marine Drive to Colaba, every street tells a story of ambition."
+          }
+        ]
+      },
+      {
+        "name": "Goa",
+        "lat": 15.2993,
+        "lng": 74.124,
+        "type": "place",
+        "slides": [
+          {
+            "image": "/travel-images/goa.jpg",
+            "text": "Golden beaches, blue skies, and freedom in the air — Goa redefines the idea of time."
+          }
+        ]
+      },
+      {
+        "name": "Coorg",
+        "lat": 12.3375,
+        "lng": 75.8069,
+        "type": "place",
+        "slides": [
+          {
+            "image": "/travel-images/coorg.jpg",
+            "text": "Coffee-scented hills, monsoon mists, and endless green — Coorg is serenity on caffeine."
+          }
+        ]
+      },
+      {
+        "name": "Kodaikanal",
+        "lat": 10.2381,
+        "lng": 77.4892,
+        "type": "place",
+        "slides": [
+          {
+            "image": "/travel-images/kodaikanal.jpg",
+            "text": "Lakeside walks through clouds — the Princess of Hill Stations truly lives up to her name."
+          }
+        ]
+      },
+      {
+        "name": "Ranthambore National Park",
+        "lat": 26.0173,
+        "lng": 76.5026,
+        "type": "place",
+        "slides": [
+          {
+            "image": "/travel-images/ranthambore.jpg",
+            "text": "A tiger’s domain — Ranthambore is where wilderness breathes beside crumbling forts."
+          }
+        ]
+      },
+      {
+        "name": "Nilgiri Tiger Reserve",
+        "lat": 11.4916,
+        "lng": 76.585,
+        "type": "place",
+        "slides": [
+          {
+            "image": "/travel-images/nilgiri.jpg",
+            "text": "Misty mornings, rolling tea estates, and the deep call of the Nilgiri forests."
+          }
+        ]
+      },
+      {
+        "name": "Omkareshwar",
+        "lat": 22.2467,
+        "lng": 76.1476,
+        "type": "place",
+        "slides": [
+          {
+            "image": "/travel-images/omkareshwar.jpg",
+            "text": "An island shaped like 'Om' — where faith flows with the Narmada."
+          }
+        ]
+      },
+      {
+        "name": "Shani Shingnapur",
+        "lat": 19.3839,
+        "lng": 74.9835,
+        "type": "place",
+        "slides": [
+          {
+            "image": "/travel-images/shani_shingnapur.jpg",
+            "text": "A village without doors — protected by the belief in Lord Shani’s watchful eyes."
+          }
+        ]
+      },
+      {
+        "name": "Saputara",
+        "lat": 20.5792,
+        "lng": 73.7524,
+        "type": "place",
+        "slides": [
+          {
+            "image": "/travel-images/saputara.jpg",
+            "text": "Gujarat’s hill station by the lake — calm, green, and perfect for reflection."
+          }
+        ]
+      },
+      {
+        "name": "Mount Abu",
+        "lat": 24.5925,
+        "lng": 72.7156,
+        "type": "place",
+        "slides": [
+          {
+            "image": "/travel-images/mount_abu.jpg",
+            "text": "Cool air, carved marble temples, and mountain sunsets — Mount Abu feels timeless."
+          }
+        ]
+      },
+      {
+        "name": "Langkawi, Malaysia",
+        "lat": 6.35,
+        "lng": 99.8,
+        "type": "place",
+        "slides": [
+          {
+            "image": "/travel-images/langkawi.jpg",
+            "text": "An island of emerald seas and rainforest — Langkawi redefines tranquility."
+          }
+        ]
+      }
+    ],
+    "airports": [
+      { "name": "New Delhi - Indira Gandhi International Airport", "lat": 28.5562, "lng": 77.1, "type": "airport", "slides": [{ "image": "/travel-images/delhi_airport.jpg", "text": "The gateway to every journey — organized chaos with chai in every corner." }] },
+      { "name": "Jaipur International Airport", "lat": 26.824, "lng": 75.8122, "type": "airport", "slides": [{ "image": "/travel-images/jaipur_airport.jpg", "text": "Small, bright, efficient — a reflection of the Pink City itself." }] },
+      { "name": "Surat Airport", "lat": 21.1142, "lng": 72.7411, "type": "airport", "slides": [{ "image": "/travel-images/surat_airport.jpg", "text": "Quick and quiet — Surat’s diamond city starts with smooth takeoffs." }] },
+      { "name": "Ahmedabad - Sardar Vallabhbhai Patel International Airport", "lat": 23.0735, "lng": 72.6266, "type": "airport", "slides": [{ "image": "/travel-images/ahmedabad_airport.jpg", "text": "Bustling yet warm — where Gujarati hospitality meets modern design." }] },
+      { "name": "Mumbai - Chhatrapati Shivaji International Airport", "lat": 19.0896, "lng": 72.8656, "type": "airport", "slides": [{ "image": "/travel-images/mumbai_airport.jpg", "text": "Art installations, lights, and endless queues — the city’s heartbeat in motion." }] },
+      { "name": "Hyderabad - Rajiv Gandhi International Airport", "lat": 17.24, "lng": 78.43, "type": "airport", "slides": [{ "image": "/travel-images/hyderabad_airport.jpg", "text": "Impressively efficient and modern — Hyderabad greets you with warmth and biryani dreams." }] },
+      { "name": "Bangalore - Kempegowda International Airport", "lat": 13.1989, "lng": 77.7063, "type": "airport", "slides": [{ "image": "/travel-images/bangalore_airport.jpg", "text": "Green, organized, and sleek — the tech city’s calm gateway." }] },
+      { "name": "Lucknow Airport", "lat": 26.7606, "lng": 80.8893, "type": "airport", "slides": [{ "image": "/travel-images/lucknow_airport.jpg", "text": "Small yet elegant — warm greetings and royal city vibes." }] },
+      { "name": "Varanasi Airport", "lat": 25.4524, "lng": 82.8592, "type": "airport", "slides": [{ "image": "/travel-images/varanasi_airport.jpg", "text": "Where spirituality begins — quiet terminals leading to the Ganges ghats." }] },
+      { "name": "Goa - Dabolim Airport", "lat": 15.38, "lng": 73.83, "type": "airport", "slides": [{ "image": "/travel-images/goa_airport.jpg", "text": "Smells like sea breeze and excitement — your Goan adventure starts here." }] },
+      { "name": "Goa - Mopa Airport", "lat": 15.744, "lng": 73.874, "type": "airport", "slides": [{ "image": "/travel-images/goa_mopa_airport.jpg", "text": "Brand new, futuristic, and filled with sunlight — North Goa’s gateway to the coast." }] },
+      { "name": "Langkawi International Airport", "lat": 6.343, "lng": 99.728, "type": "airport", "slides": [{ "image": "/travel-images/langkawi_airport.jpg", "text": "Tropical, cozy, and scenic — landing here feels like touching paradise." }] }
+    ]
+  }
