@@ -2,6 +2,7 @@
 import React, { useEffect, useState } from "react";
 import { Link, Outlet, useLocation, useNavigate } from "react-router-dom";
 import ScrollToTop from "./ScrollToTop"; // <-- new import
+import { Analytics } from "@vercel/analytics/react";
 
 /**
  * Layout.jsx
@@ -150,6 +151,9 @@ export default function Layout() {
       <footer className="text-center py-10 border-t border-slate-800 text-slate-500 text-sm mt-20">
         © {new Date().getFullYear()} Deepak Yadav — Built with ❤️
       </footer>
+
+      {/* Add this line */}
+      <Analytics />
     </div>
   );
 }
